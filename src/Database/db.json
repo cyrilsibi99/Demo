@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rohit Sharma",
+      "username": "Hitman",
+      "email": "rohit@gmail",
+      "phone": "9876543210sdfsss"
+    },
+    {
+      "email": "asdD@gma.comsad",
+      "name": "ccccc",
+      "username": "asdasdww",
+      "phone": "9874563210",
+      "id": 2
+    }
+  ]
+}
